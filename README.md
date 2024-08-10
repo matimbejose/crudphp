@@ -26,7 +26,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente local.
 ### 1. Clone o repositório
 
 ```sh
-git clone https://github.com/ProjetosEPSistemas/crud.git
+git clone https://github.com/matimbejose/crudphp
 ```
 ### 2. Acesse o diretório do projeto
 ```sh
